@@ -1,9 +1,24 @@
-# Alexander Gusev — building e‑commerce products in public
+# Hi, I'm Alexander 👋
 
-Founder‑type engineer. 0→1 e‑commerce, automation, growth. Shipping micro‑SaaS experiments.
+**Founder-type engineer** — building micro-SaaS, Telegram bots, and AI-powered integrations for e-commerce.
 
-- Now: iterating on tiny tools for merchants and D2C brands
-- Focus: E-commerce apps, storefront UX, ops automation, analytics
-- Building in public: weekly updates on X
+💻 **Core expertise**  
+- E-commerce development on **1C-Bitrix** (high-load stores, custom modules)  
+- **Integrations** with CRMs, ERPs, payment gateways, marketplaces, and 3rd-party APIs  
+- Applying **AI/LLMs** to automate product data, recommendations, and customer experience  
+- Shipping **0→1 products** fast: SaaS tools, Telegram bots, CLI utilities
 
-Links: [X/Twitter](https://x.com/sanches_free) · [LinkedIn](https://www.linkedin.com/in/alexander-gusev-274ab625/) · [GitHub](https://github.com/sanchesfree)
+🚀 **Recent projects**
+- Viomo Telegram bot — AI-powered fragrance matching by description or photo
+- [macOS Disk Speed Test CLI](https://github.com/sanchesfree/macos-disk-speed-test-cli) — simple command-line tool for quick drive benchmarks
+- E-commerce AI — attribute extraction, SEO enrichment, and personalization with LLMs
+
+📢 **Building in public**  
+I share weekly progress, experiments, and insights on  
+[Twitter/X](https://x.com/sanches_free) · [LinkedIn](https://www.linkedin.com/in/alexander-gusev-274ab625/)
+
+📬 **Let’s collaborate**  
+DMs open for consulting, integrations, and product ideas.
+
+---
+*Currently exploring how AI can transform e-commerce — from product pages to customer engagement.*
